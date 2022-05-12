@@ -3,8 +3,13 @@
 # output: show the result on screen
 
 
-for filename in "s@" do
+for filename in "s@" 
+do
 echo $filename
 head -n 15
+stupid
+echo
+done
+
 
 hahha≈
