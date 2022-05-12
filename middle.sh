@@ -3,4 +3,8 @@
 # output: show the result on screen
 
 
+for filename in "s@" do
+echo $filename
+head -n 15
+
 hahha≈
